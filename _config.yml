@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Natural Music Understanding
-description: A blog about my journey into machine learning, deep learning and natural language understanding for music note understanding and generation.
+description: A blog about my journey into machine learning, deep learning and natural language understanding for music understanding and note generation.
 github_username: steefvw
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "nmu"
